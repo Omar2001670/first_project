@@ -22,6 +22,8 @@ public class MyTestCases {
 		driver.manage().window().maximize();
 	}
 	
+	
+	// Omar
 	@Test
 	public void SignUp() {
 		
